@@ -1,0 +1,65 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/gray-grunge-surface-wall-texture-background_1017-18216.jpg?t=st=1728202876~exp=1728206476~hmac=efd2c06f52026c0deba275f35c00cea7d70f01f19ef43ad75510ba2dae1e6486&w=996");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ h1 {
+    
+    color: rgba(255, 255, 255, 0.966);
+}
+ h1 { text-align: center;
+
+
+ }
+
+ h2 { text-align: center;
+
+
+ }
+
+ h1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  form {
+text-align: center;
+  }
+
+  form {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  form { color:whitesmoke
+
+
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+  table , td , label { color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+      }
+
+button { 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+  
+  p {
+    color: aliceblue;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;}
+ 
+
+  
